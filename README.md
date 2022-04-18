@@ -20,7 +20,7 @@ A hot swap system for Handwire builds column staggered mechanical keyboard, runn
 | ![M2screw](image/M2screw.jpg)                       |M2 Screw 4mm                                                         | 24   |
 | ![Diode 1N4148](image/Diode1N4148.jpg)              |Diode 1N4148 THT                                                     | 48   |
 | ![cable](image/cable.jpg)                           |Single Core 0.5mm Cable                                              | ~3m  |
-| ![Rivet](image/switch-rivet.jpg)                    |Switch Rivet (Hot Swap Sip Socket Similar to Millmax) or 7305-0-15-15-47-27-10-0 millmax | 92   |
+| ![Rivet](image/switch-rivet.jpg)                    |Rivet (Hot Swap Sip Socket Similar to Millmax) or 7305-0-15-15-47-27-10-0 Millmax | 92   |
 | ![Ec11](image/ec11-rotary-encoder.jpg)              |EC11 Rotary Encoder                                                  | 2    |
 | ![Knob](image/encoder-knob.jpg)                     |Knob                                                                 | 2    |
 | ![type c](image/type-c.jpg)                         |Type C Connector 14 Pin Female                                       | 1    |
