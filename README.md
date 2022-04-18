@@ -1,7 +1,7 @@
 
 # Cockpit Keyboard
 
-A hot swap system for Handwire builds staggered mechanical keyboard, running QMK Firmware on Pro Micro controllers. 
+A hot swap system for Handwire builds column staggered mechanical keyboard, running QMK Firmware on Pro Micro controllers. 
 
 ![Cockpit Keyboard](image/cockpit-keyboard1.jpg)                  
 ![Cockpit Keyboard](image/cockpit-keyboard3.jpg)          
