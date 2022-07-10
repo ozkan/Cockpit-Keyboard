@@ -36,4 +36,8 @@ A hot swap system for Handwire builds column staggered mechanical keyboard, runn
 [Frimware](Firmware)
 
 ### Turkey Mechanical Keyboard Community
-[Telegram: mechistanbul](https://t.me/mechistanbul)
+[Telegram: mechistanbul](https://t.me/mechistanbul) 
+
+
+---
+Keyboard Maintainer: [ozkan](https://github.com/ozkan)
