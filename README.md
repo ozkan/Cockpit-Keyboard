@@ -1,32 +1,30 @@
-
 # Cockpit Keyboard
 
-A hot swap system for Handwire builds column staggered mechanical keyboard, running QMK Firmware on Pro Micro controllers. 
+A hot swap system column staggered mechanical keyboard, running QMK Firmware on Pro Micro controllers. 
 
-![Cockpit Keyboard](image/cockpit-keyboard1.jpg)                  
-![Cockpit Keyboard](image/cockpit-keyboard3.jpg)          
-## Parts list 
+![Cockpit Keyboard](images/CockpitKeyboard.jpg) 
 
-|                                                     | Description                                                         | Qty  |
-| :---                                                |    :----:                                                           | ---: |
-| ![top plate](image/TopPlate.png)                    |[Top Plate (1.5mm aluminium or acrylic)](acrylic-plate/top-plate/)   | 1    |
-| ![upper middle plate](image/UpperMiddlePlate.png)   |[Upper Middle Plate (3mm acrylic)](acrylic-plate/upper-middle-plate/)| 1    |
-| ![riveting plate](image/RivetingPlate.png)          |[Riveting Plate (2mm acrylic)](acrylic-plate/riveting-plate/)        | 1    |
-| ![lower middle plate](image/LowerMiddlePlate.png)   |[Lower Middle Plate (3mm acrylic)](acrylic-plate/lower-middle-plate/)| 1    |
-| ![bottom plate](image/BottomPlate.png)              |[Bottom Plate (2mm or 3mm acrylic)](acrylic-plate/bottom-plate/)     | 1    |
-| ![arduino pro micro](image/ArduinoProMicro.jpg)     |Arduino Pro Micro                                                    | 1    |
-| ![promicro socket](image/promicro-socket.jpg)       |ProMicro Socket 24 Pin Wide (optional)                               | 1    |
-| ![Spacer](image/Spacer.jpg)                         |M2 Spacer 5mm or 6mm                                                 | 12   |
-| ![M2screw](image/M2screw.jpg)                       |M2 Screw 4mm                                                         | 24   |
-| ![Diode 1N4148](image/Diode1N4148.jpg)              |Diode 1N4148 THT                                                     | 48   |
-| ![cable](image/cable.jpg)                           |Single Core 0.5mm Cable                                              | ~3m  |
-| ![Rivet](image/switch-rivet.jpg)                    |Rivet (Hot Swap Sip Socket Similar to Millmax) or 7305-0-15-15-47-27-10-0 Millmax | 92   |
-| ![Ec11](image/ec11-rotary-encoder.jpg)              |EC11 Rotary Encoder                                                  | 2    |
-| ![Knob](image/encoder-knob.jpg)                     |Knob                                                                 | 2    |
-| ![type c](image/type-c.jpg)                         |Type C Connector 14 Pin Female                                       | 1    |
-| ![micro connetor](image/MicroConnector.jpg)         |Micro USB Male Type B 5 Terminal Jack Port Solder Connector          | 1    |
-| ![switch](image/MX-switch.jpg)                      |MX Compatible Key Switch (3pin or 5pin)                              | 46   |
-| ![keycaps](image/Keycaps.jpg)                       |MX Compatible Keycap (1U)                                            | 46   |
+## Bill of Materials
+
+| Qty  | Descript                                                               |
+|------|------------------------------------------------------------------------|
+| 1    | PCB board                                                              |
+| 1    | Arduino Pro Micro                                                      |
+| 1    | ProMicro socket 24 pin wide or 2.54 mm pitch female header             |
+| 48   | Diode 1N4148 THT                                                       |
+| 2    | EC11 Rotary Encoder                                                    |
+| 2    | Encoder knob                                                           |
+| 46   | MX Compatible Key Switch (3pin or 5pin)                                |
+| 46   | MX Compatible Keycap (1U)                                              |
+| 13   | M2 Spacer 5mm or 6mm (Standoff   )                                     |
+| 26   | M2 Screw 5mm                                                           |
+| 1    | [Top Plate (1.5mm aluminium or acrylic)](acrylic-plate/)               |
+| 1    | [Upper Middle Plate (3mm acrylic)](acrylic-plate/)                     |
+| 1    | [Lower Middle Plate (3mm acrylic)](acrylic-plate/)                     |
+| 1    | [Bottom Plate (2mm or 3mm acrylic)](acrylic-plate/)                    |
+| 1    | [Pro Micro Cover (2mm or 3mm acrylic)](acrylic-plate/)                 |
+| 1    | 8 channel WS2812 5050 RGB LED                                          |
+| 1    | Tact Switch 6X6 4mm                                                    |
 
 
 ## Schematic
@@ -39,5 +37,11 @@ A hot swap system for Handwire builds column staggered mechanical keyboard, runn
 [Telegram: mechistanbul](https://t.me/mechistanbul) 
 
 
----
-Keyboard Maintainer: [ozkan](https://github.com/ozkan)
+<p align="center">
+<a href="https://pcbway.com/"><img src="images/PCBWay.png"></a>
+</p> 
+<p align="center">
+<a href="https://pcbway.com" >PCBWay</a> graciously offered to sponsor the prototype build of this keyboard   <br>
+Thanks PCBWay
+</p> 
+
