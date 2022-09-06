@@ -34,8 +34,10 @@ A hot swap system column staggered mechanical keyboard, running QMK Firmware on 
 [Frimware](Firmware)
 
 ### Turkey Mechanical Keyboard Community
-[Telegram: mechistanbul](https://t.me/mechistanbul) 
+Telegram: [mechistanbul](https://t.me/mechistanbul) 
 
+## Thanks
+Huge shoutout to [Arda Kılıçdağı ](https://github.com/Ardakilic) for tons of advice and help.
 
 <p align="center">
 <a href="https://pcbway.com/"><img src="images/PCBWay.png"></a>
