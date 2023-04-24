@@ -2,7 +2,7 @@
 
 A hot swap system column staggered mechanical keyboard, running QMK Firmware on Pro Micro controllers. 
 
-![Cockpit Keyboard](images/CockpitKeyboard.jpg) 
+[![Cockpit Keyboard](images/CockpitKeyboard-0.png)](images/CockpitKeyboard-1.webp)
 
 ## Bill of Materials
 
