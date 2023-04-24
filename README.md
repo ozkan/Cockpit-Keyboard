@@ -31,11 +31,14 @@ A hot swap system column staggered mechanical keyboard, running QMK Firmware on 
 ![schematic](schematic/cockpit.svg)
 
 ## Firmware
-[Frimware](Firmware)
+Link to qmk-fork: [https://github.com/ozkan/Cockpit-QMK-config](https://github.com/ozkan/Cockpit-QMK-config)    
+Link to zmk-fork: [https://github.com/ozkan/Cockpit-ZMK-config](https://github.com/ozkan/Cockpit-ZMK-config)
 
 ### Turkey Mechanical Keyboard Community
-[Telegram: mechistanbul](https://t.me/mechistanbul) 
+Telegram: [mechistanbul](https://t.me/mechistanbul) 
 
+## Thanks
+Huge shoutout to [Arda Kılıçdağı ](https://github.com/Ardakilic) for tons of advice and help.
 
 <p align="center">
 <a href="https://pcbway.com/"><img src="images/PCBWay.png"></a>
