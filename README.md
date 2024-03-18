@@ -18,8 +18,8 @@ A hot swap system column staggered mechanical keyboard, running QMK Firmware on 
 | 46   | MX Compatible Keycap (1U)                                              |
 | 13   | M2 Spacer 5mm or 6mm (Standoff   )                                     |
 | 26   | M2 Screw 5mm                                                           |
-| 1    | [Top Plate (1.5mm aluminium or acrylic)](acrylic-plate/)               |
-| 1    | [Upper Middle Plate (3mm acrylic)](acrylic-plate/)                     |
+| 1    | [Top Plate (1.2mm aluminium or acrylic)](acrylic-plate/)               |
+| 1    | [Upper Middle Plate (4mm acrylic)](acrylic-plate/)                     |
 | 1    | [Lower Middle Plate (3mm acrylic)](acrylic-plate/)                     |
 | 1    | [Bottom Plate (2mm or 3mm acrylic)](acrylic-plate/)                    |
 | 1    | [Pro Micro Cover (2mm or 3mm acrylic)](acrylic-plate/)                 |
