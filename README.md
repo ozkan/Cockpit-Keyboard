@@ -28,7 +28,7 @@ A hot swap system column staggered mechanical keyboard, running QMK Firmware on 
 
 
 ## Schematic
-![schematic](schematic/cockpit.svg)
+![schematic](cockpit_soldered/schematic/cockpit.svg)
 
 ## Firmware
 Link to qmk-fork: [https://github.com/ozkan/Cockpit-QMK-config](https://github.com/ozkan/Cockpit-QMK-config)    
